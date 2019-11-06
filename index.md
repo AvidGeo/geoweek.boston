@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-#
-
-![]({{site.baseurl}}/img/geoweek-wallpaperE.jpg)
 
 For the first time, Maptime Boston is celebrating GeoWeek! Geography Awareness Week is celebrated every third week of November. More general info:
 
