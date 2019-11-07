@@ -12,8 +12,6 @@ Geography Awareness Week, also known as GeoWeeek, is celebrated every third week
 
 Here is a listing of eventsLet us know if we're missing any local geo-related events and we'll add them here! Most events below should be open to the public - please visit individual event links for more details and registration information.
 
-<hr/>
-
 ## Sunday November 10
 
 <time>2:00pm</time>
