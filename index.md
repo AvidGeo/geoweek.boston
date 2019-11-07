@@ -10,7 +10,7 @@ Geography Awareness Week, also known as GeoWeek, is celebrated every third week 
 * [Open Street Map Geography Awareness Week](https://osmgeoweek.org/)
 * [GIS Day Overview [Esri]](https://www.gisday.com/en-us/overview) -->
 
-Here is a listing of eventsLet us know if we're missing any local geo-related events and we'll add them here! Most events below should be open to the public - please visit individual event links for more details and registration information.
+Here is a listing of events. Let us know if we're missing any local geo-related events and we'll add them here! Most events below should be open to the public - please visit individual event links for more details and registration information.
 
 ## Sunday November 10
 
