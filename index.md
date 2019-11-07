@@ -4,7 +4,7 @@ layout: default
 
 # Maptime Boston is celebrating GeoWeek!
 
-Geography Awareness Week, also known as GeoWeeek, is celebrated every third week of November. Join the Boston Geospatial community in showing our pride and joy in our community.
+Geography Awareness Week, also known as GeoWeek, is celebrated every third week of November. Join the Boston Geospatial community in showing our pride and joy in our community.
 
 <!-- * [Geography Awareness Week [National Geographic]](https://www.nationalgeographic.org/education/programs/geography-awareness-week/)
 * [Open Street Map Geography Awareness Week](https://osmgeoweek.org/)
@@ -40,7 +40,7 @@ Here is a listing of eventsLet us know if we're missing any local geo-related ev
 
 ***<time>12:00 pm</time>***
 
-[GIS Day [Northeastern University]](https://web.northeastern.edu/nulab/event/gis-day-2019/) - HOTOSM Mapathon
+[GIS Day [Northeastern University]](https://northeastern.libcal.com/calendar/snell/MapathonGISDay2019) - HOTOSM Mapathon
 
 ***<time>6:00 pm</time>***
 
