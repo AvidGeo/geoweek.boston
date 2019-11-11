@@ -46,6 +46,10 @@ Here is a listing of events. Let us know if we're missing any local geo-related 
 
 [Transformation, Crisis, and Reinvention: Exhibition Opening and Book Talk [Leventhal Map & Education Center]](https://www.leventhalmap.org/event/transformation-crisis-reinvention-exhibition-opening-book-talk/?instance_id=8791)
 
+***<time>7:30 pm</time>***
+
+🍻 GIS Day Geobeers at [The Pour House](https://www.pourhouseboston.com/)!
+
 ***
 
 ## Thursday November 14 _PostGIS Day_
